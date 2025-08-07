@@ -1,6 +1,6 @@
 # From Data to Decision: Optimizing Regional Sales Performance  
 ### Case Study for: **FDM Group – Data & Analytics Graduate Programme**  
-**Role Fit:** Data Analyst | BI Developer | Skill Lab-Ready Consultant  
+**📌Role Fit:** Data Analyst | BI Developer | Skill Lab-Ready Consultant  
 
 ---
 
